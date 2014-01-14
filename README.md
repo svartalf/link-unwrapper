@@ -1,6 +1,6 @@
 ## Tornado server for short links unwrapping
 
-CPython + PyPy compatible.
+CPython 2 + CPython 3 + PyPy compatible.
 
 ### Installation
 
