@@ -1,4 +1,4 @@
-## Tornado server for short links unwrapping
+## Tornado server for a short links unwrapping
 
 CPython 2 + CPython 3 + PyPy compatible.
 
